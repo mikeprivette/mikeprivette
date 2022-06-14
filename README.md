@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on launching several [digital products](https://mikeprivette.gumroad.com).
-- 📰 I write a newsletter called [Return on Security](https://www.returnonsecurity.com) to help private investors and buyers of cybersecurity products make more informed decisions.
-- 👔 My consulting company [Fraction Consulting](https://fractionconsulting.co) was [acquired](https://www.crunchbase.com/acquisition/defiance-ventures-acquires-fraction-consulting--d7d7e795) by [Defiance Ventures](https://defiance.ai).
-- 📫 How to reach me: At my [personal site](https://mikeprivette.com)
-- 😄 Pronouns: He/Him
+- 📰 I write a newsletter called Security, Funded at my website [Return on Security](https://www.returnonsecurity.com).
+- 🔭 I like to make [digital products](https://mikeprivette.gumroad.com).
+- 🐦 Follow along with what I'm up to on [Twitter](https://twitter.com/mikepsecuritee).
 
